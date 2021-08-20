@@ -5,7 +5,7 @@ declare(strict_types = 1);
 namespace jojoe77777\FormAPI;
 
 use pocketmine\form\Form as IForm;
-use pocketmine\player\Player;
+use pocketmine\Player;
 
 abstract class Form implements IForm{
 
